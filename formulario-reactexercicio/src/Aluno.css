@@ -1,0 +1,14 @@
+div{
+    box-shadow: 0 0 10px 2px rgba(239, 237, 237, 0.745);
+    padding: 5px 15px 25px;
+    border-radius: 10px;
+    transition: 0.2s;
+    margin: 10px;
+}
+
+div:hover{
+
+    margin-top: -4px;
+    margin-bottom:4px;
+    transition: 0.2s;
+}
